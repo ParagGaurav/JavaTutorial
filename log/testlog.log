@@ -1,0 +1,15 @@
+2023-08-15 22:18:59,294 - Log4jLogging -INFO - Chrome Broowser Instance Opened
+2023-08-15 22:18:59,734 - Log4jLogging -INFO - Window maximized
+2023-08-15 22:18:59,742 - Log4jLogging -INFO - Implicit wait given
+2023-08-15 22:19:04,852 - Log4jLogging -INFO - Application Opened
+2023-08-15 22:19:34,985 - Log4jLogging -INFO - Failure- 'emails' web element is not displayed
+2023-08-21 23:25:54,533 - Log4jLogging -INFO - Chrome Broowser Instance Opened
+2023-08-21 23:25:55,195 - Log4jLogging -INFO - Chrome Broowser Instance Opened
+2023-08-21 23:25:55,215 - Log4jLogging -INFO - Window maximized
+2023-08-21 23:25:55,221 - Log4jLogging -INFO - Implicit wait given
+2023-08-21 23:25:55,960 - Log4jLogging -INFO - Window maximized
+2023-08-21 23:25:55,969 - Log4jLogging -INFO - Implicit wait given
+2023-08-21 23:26:01,922 - Log4jLogging -INFO - Application Opened
+2023-08-21 23:26:03,084 - Log4jLogging -INFO - Application Opened
+2023-08-21 23:26:31,974 - Log4jLogging -INFO - Failure- 'emails' web element is not displayed
+2023-08-21 23:26:33,170 - Log4jLogging -INFO - Failure- 'emails' web element is not displayed
